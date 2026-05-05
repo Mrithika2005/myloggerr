@@ -1,0 +1,6 @@
+{
+  "name": "mylogger - Universal DDD Logging",
+  "description": "A DDD-integrated universal logging library featuring 8 bounded context layers, immutable value objects, and a pluggable pipeline for Python and TypeScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
