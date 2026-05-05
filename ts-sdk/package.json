@@ -1,0 +1,20 @@
+{
+  "name": "@mylogger/ts-sdk",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./react": "./src/react/useLogger.tsx",
+    "./core": "./src/core/enums.ts",
+    "./layers": "./src/layers/index.ts"
+  },
+  "dependencies": {
+    "uuid": "^11.0.0",
+    "lucide-react": "^0.474.0"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "motion": ">=12"
+  }
+}
